@@ -8,5 +8,5 @@ Prerequisite
 
 How to Run
 ----------
-mvn exec:java
+    mvn exec:java
 
