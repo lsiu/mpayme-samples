@@ -17,5 +17,5 @@ firewall, there is some network configuration required. The steps to perform the
 various depending on test location and is beyond the scope of this README.
 
 After the network is configured such that this computer can receive HTTP post message on 4567 port on this computer,
-configure in MWS, Notification Group to post to http://<computer_external_ip>:4567/ipn. This application will print
+configure in MWS, Notification Group to post to `http://{computer_external_ip}:4567/ipn`. This application will print
 the post message to the console.
